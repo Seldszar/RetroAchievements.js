@@ -1,4 +1,21 @@
 {
   "name": "RetroAchievements.js",
-  "license": "MIT"
+  "description": "RetroAchievements JavaScript API client.",
+  "main": [
+    "dist/retro-achievements.js"
+  ],
+  "moduleType": [
+    "amd",
+    "node"
+  ],
+  "keywords": [
+    "achievements",
+    "retro"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "test"
+  ]
 }
